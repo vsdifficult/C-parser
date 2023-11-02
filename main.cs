@@ -60,19 +60,8 @@ namespace main
 
         } 
         public static void Main() { 
-            Parser_code("https://sc68.ru"); 
+            Parser_code("https://example.com"); 
         }
     }
 }
 
-
-// namespace main { 
-//     class main_class { 
-//         public static void Main() { 
-//             Print("hi"); 
-//         } 
-//         public static void Print(string str) { 
-//               Console.WriteLine(str); 
-//         }
-//     }
-// }
